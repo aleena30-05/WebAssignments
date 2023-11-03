@@ -1,0 +1,57 @@
+.header {
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 32px;
+    background-color: #477BFF;
+    color: #FFFFFF
+}
+
+.heading{
+    padding-left: 50px;
+    padding-top: 25px;
+}
+.question{
+    padding-left: 50px;
+}
+.inputtext{
+    margin-left:50px;
+}
+.button-container {
+    margin-left: 50px;
+    display: flex;
+}
+.btn {
+    border-radius: 50%;
+    border: none;
+    background-color: #D9EEFF;
+    margin: 5px;
+    padding: 10px;
+}
+.btn:hover{
+    background-color: blueviolet;
+    color: white;
+}
+.btn2 {
+    border: none;
+    background-color: #D9EEFF;
+    margin: 5px;
+    padding: 10px;
+}
+.btn2:hover{
+    background-color: red;
+    color: white;
+}
+
+.btn3{
+    border-radius: 50%;
+    border: none;
+    background-color: #D9EEFF;
+    margin: 5px;
+    padding: 10px;
+}
+
+.btn3:hover{
+    background-color: blueviolet;
+    color: white;
+}
